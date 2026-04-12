@@ -10,7 +10,7 @@ une fiche détaillée complète. Le projet est structuré en couches logiques
 
 ## Démonstration
 
-https://github.com/Huuudaa/LAB_6_SAS_Houda/video/pizza demo.mp4
+https://github.com/Huuudaa/LAB_6_SAS_Houda/video/pizza.mp4
 
 ---
 
